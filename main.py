@@ -11,7 +11,7 @@ while True:
      print("4.  Edit Order")
      print("5.  Save Order")
      print("6.  Exit Program")
-     menu_option = input("Selection")
+     menu_option = input("Select an option:")
 
      if (menu_option == "2"):
          add_new_number = input("Enter your order number:")
